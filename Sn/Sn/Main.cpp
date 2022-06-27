@@ -204,7 +204,6 @@ void MainMenu() {
 }
 
 int main() {
-    void Karusha();
     system("pause");
     MainMenu();
     srand(time(NULL));
