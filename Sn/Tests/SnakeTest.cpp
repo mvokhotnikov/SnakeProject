@@ -29,7 +29,7 @@ void Karusha() {
     sn.AddTail();
     sn.AddTail();
     cout << sn.GetTailSize() << endl;
-    //assert(sn.GetTailSize() == 0);
+    assert(sn.GetTailSize() == 0);
 }
 
 
